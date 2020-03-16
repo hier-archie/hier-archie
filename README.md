@@ -1,2 +1,2 @@
 # hier-archie
-Hierarchie Label
+Hierarchie
