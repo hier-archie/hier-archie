@@ -1,2 +1,1 @@
-# hier-archie
-Hierarchie
+# Hierarchie
