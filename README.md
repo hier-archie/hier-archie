@@ -1,2 +1,2 @@
 # Hierarchie
-hierarchie.club
+http://hierarchie.club
